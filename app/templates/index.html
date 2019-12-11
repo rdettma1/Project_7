@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<ul>
+    <h1>Washington Capitals Roster, November 2019</h1>
+    <h2>Offense</h2>
+    {% for player in players.get("offense") %}
+        <p>
+            {{ player.firstname }}, {{ player.lastname }}   {{player.special }}<br/>
+            Number: {{ player.number }}  &nbsp;  Position: {{ player.position }}  &nbsp;  Shoots: {{ player.shoots }}  &nbsp;
+            Height: {{ player.height }}  &nbsp;  Weight: {{ player.weight }}
+            <br/>
+        </p>
+    {% endfor %}
+
+    <h2>Defense</h2>
+    {% for player in players.get("defense") %}
+        <p>
+            {{ player.firstname}}, {{ player.lastname }}   {{ player.special }}<br/>
+            Number: {{ player.number }}  &nbsp;  Position: {{ player.position }}  &nbsp;  Shoots: {{ player.shoots }}  &nbsp;
+            Height: {{ player.height }}  &nbsp;  Weight: {{ player.weight }}
+            <br/>
+        </p>
+    {% endfor %}
+
+
+    <h2>Goalies</h2>
+    {% for player in players.get("goalies") %}
+        <p>
+            {{ player.firstname}}, {{ player.lastname }}   {{ player.special }}<br/>
+            Number: {{ player.number }}  &nbsp;  Position: {{ player.position }}  &nbsp;  Shoots: {{ player.shoots }}  &nbsp;
+            Height: {{ player.height }}  &nbsp;  Weight: {{ player.weight }}
+            <br/>
+        </p>
+    {% endfor %}
+
+</ul>
+
+
+</body>
+</html></html>

@@ -1,0 +1,212 @@
+[
+    {
+        "firstname": "Nicklas",
+        "lastname": "Backstrom",
+        "special": "(A)",
+        "number": "19",
+        "position": "C",
+        "shoots": "L",
+        "height": "6'1\"",
+        "weight": "206"
+    },
+    {
+        "firstname": "Travis",
+        "lastname": "Boyd",
+        "special": "",
+        "number": "72",
+        "position": "C",
+        "shoots": "R",
+        "height": "6'0\"",
+        "weight": "190"
+    },
+    {
+        "firstname": "Nic",
+        "lastname": "Dowd",
+        "special": "",
+        "number": "26",
+        "position": "C",
+        "shoots": "R",
+        "height": "6'1\"",
+        "weight": "195"
+    },
+    {
+        "firstname": "Lars",
+        "lastname": "Eller",
+        "special": "",
+        "number": "20",
+        "position": "C",
+        "shoots": "L",
+        "height": "6'2\"",
+        "weight": "205"
+    },
+    {
+        "firstname": "Carl",
+        "lastname": "Hagelin",
+        "special": "",
+        "number": "62",
+        "position": "LW",
+        "shoots": "L",
+        "height": "6'0\"",
+        "weight": "185"
+    },
+    {
+        "firstname": "Garnet",
+        "lastname": "Hathaway",
+        "special": "",
+        "number": "21",
+        "position": "RW",
+        "shoots": "R",
+        "height": "6'3\"",
+        "weight": "210"
+    },
+    {
+        "firstname": "Evgeny",
+        "lastname": "Kuznetsov",
+        "special": "",
+        "number": "92",
+        "position": "C",
+        "shoots": "L",
+        "height": "6'2\"",
+        "weight": "197"
+    },
+    {
+        "firstname": "Brendan",
+        "lastname": "Leipsic",
+        "special": "",
+        "number": "28",
+        "position": "LW",
+        "shoots": "L",
+        "height": "5'11\"",
+        "weight": "180"
+    },
+    {
+        "firstname": "T.J.",
+        "lastname": "Oshie",
+        "special": "",
+        "number": "77",
+        "position": "RW",
+        "shoots": "R",
+        "height": "6'0\"",
+        "weight": "195"
+    },
+    {
+        "firstname": "Alex",
+        "lastname": "Ovechkin",
+        "special": "(C)",
+        "number": "8",
+        "position": "LW",
+        "shoots": "R",
+        "height": "6'3\"",
+        "weight": "236"
+    },
+    {
+        "firstname": "Richard",
+        "lastname": "Panik",
+        "special": "",
+        "number": "14",
+        "position": "RW",
+        "shoots": "L",
+        "height": "6'2\"",
+        "weight": "202"
+    },
+    {
+        "firstname": "Jakub",
+        "lastname": "Vrana",
+        "special": "",
+        "number": "13",
+        "position": "LW",
+        "shoots": "L",
+        "height": "6'0\"",
+        "weight": "195"
+    },
+    {
+        "firstname": "Tom",
+        "lastname": "Wilson",
+        "special": "",
+        "number": "43",
+        "position": "RW",
+        "shoots": "R",
+        "height": "6'4\"",
+        "weight": "220"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Carlson",
+        "special": "(A)",
+        "number": "74",
+        "position": "D",
+        "shoots": "R",
+        "height": "6'3\"",
+        "weight": "217"
+    },
+    {
+        "firstname": "Radko",
+        "lastname": "Gudas",
+        "special": "",
+        "number": "33",
+        "position": "D",
+        "shoots": "R",
+        "height": "6'0\"",
+        "weight": "205"
+    },
+    {
+        "firstname": "Nick",
+        "lastname": "Jensen",
+        "special": "",
+        "number": "3",
+        "position": "D",
+        "shoots": "R",
+        "height": "6'1\"",
+        "weight": "196"
+    },
+    {
+        "firstname": "Michal",
+        "lastname": "Kempny",
+        "special": "",
+        "number": "6",
+        "position": "D",
+        "shoots": "L",
+        "height": "6'1\"",
+        "weight": "195"
+    },
+    {
+        "firstname": "Dmitry",
+        "lastname": "Orlov",
+        "special": "",
+        "number": "9",
+        "position": "D",
+        "shoots": "L",
+        "height": "5'11\"",
+        "weight": "208"
+    },
+    {
+        "firstname": "Jonas",
+        "lastname": "Siegenthaler",
+        "special": "",
+        "number": "34",
+        "position": "D",
+        "shoots": "L",
+        "height": "6'3\"",
+        "weight": "210"
+    },
+    {
+        "firstname": "Braden",
+        "lastname": "Holtby",
+        "special": "",
+        "number": "70",
+        "position": "G",
+        "shoots": "--",
+        "height": "6'2\"",
+        "weight": "214"
+    },
+    {
+        "firstname": "Ilya",
+        "lastname": "Samsonov",
+        "special": "",
+        "number": "30",
+        "position": "G",
+        "shoots": "--",
+        "height": "6'3\"",
+        "weight": "208"
+    }
+]
